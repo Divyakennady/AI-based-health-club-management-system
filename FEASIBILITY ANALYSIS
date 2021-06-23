@@ -1,0 +1,34 @@
+3.5 FEASIBILITY ANALYSIS  
+The prime objective of feasibility study is to ensure that the problem is worth to 
+be solved. At the stage a cost benefit is performed to assertion that the benefit from 
+the system will over rule association with the whole analysis, design and 
+development of the new system. As important outcome of the preliminary 
+investigation determining whether the system required is feasible.  
+Steps in Feasibility Analysis  
+Feasibility Analysis involves eight steps:  
+ Form a project team and appoint a project leader.  
+ Prepare a system flow chart  
+ Enumerate potential candidate system.  
+ Describe and identify characteristics of candidate systems.  
+ Describe and evaluate performance and cost effectiveness of each candidate 
+systems.  
+ Weight system performance and cost data.  
+ Select the best candidate system.  
+Prepare and report final project directive and management 
+ Technical Feasibility   Operational Feasibility   Economic Feasibility   Behavioural Feasibility  3.5.1 Technical Feasibility  
+The main objective of feasibility study is to test the technical, social and economic feasibility of developing a system. Investing the existing system in the area under 
+investigation and generating ideas about the new system does this. Feasibility study has been done to gather required information. Data was gathered and checked for completeness and accuracy. Analysing the data involved identification of the components of the system and their interrelationship and identified the strength and weakness of the system.   
+This "Automated health club management system" is developed by using Python and MySQL. So the technical part of this project is very secure. Maintainability and productivity is also high. So " Automated health club management system” is technically feasible.  
+  
+3.5.2 Operational Feasibility  
+"Automated health club management system" there is no difficulty in implementing the system. The proposed system is effective, user friendly and functionally. The user of the system must be completely aware of the internal working of the system so that the users will not face any problems running the system. System design provides the procedural details necessary for implementing the system recommended in the feasibility study.  
+  
+3.5.3 Economical Feasibility   
+Economic is used for evaluating the effectiveness of the system. This project is economically feasible because the project can be completed in few months. The cost and the benefits associated with the candidate system was considered. This feasibility checks whether the system can be developed with the available funds. The “Automated health club management system " does not require enormous amount of money to be developed. This can be done economically if planned judicially, so it is economically feasible. The cost of project depends upon the number of requirements that are used required.  
+  
+  3.5.4 Behavioural Feasibility  
+The behavioural feasibility depends upon whether the system performed in the 
+expected way or not. The system proposal according to it workability, impact on 
+organization, ability to meet user’s need and effective use of resources. 
+"Automated health club management system" is behaviourally feasible because it 
+overcome the problem faced by the factories it uses the resources effectively and is very user friendly and also it satisfies the user needs.
