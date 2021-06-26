@@ -1,0 +1,22 @@
+Admin module 
+Admin module is the important module which can access all modules in the integrated health 
+club management system and handles staff management, user management, equipment 
+management and billing. Admin can add new staff to system by entering their details such as 
+name, block, address, email, phone number, date of birth and salary. Details of existing staff 
+can be edited whenever necessary. By monitoring the existing staff, inefficient staff can be 
+deleted. Admin can block the non-productive staff or unblock productive staff from the health 
+club management system. When a registration request arrives to the system from a new user 
+admin can either approve or reject those request. Invoices can be manually send or view by the 
+admin and can also auto schedule invoices for the users. Using staff id, admin can view the 
+attendance of the staff and the details of login time, logout time, total hours and salary. Admin 
+can view attendance of each user and their class schedules from the admin panel. Peak time 
+(rush time of the health club management system) and normal time of the system can viewed. 
+Admin can send offers regarding discount/special programs and notifications to all or selected 
+users in the health club management system. New equipment’s can be added with their name, 
+type and building id and can view existing equipment or delete faulty/unused equipment’s 
+inside health club and mark location of each equipment. Employee salary management can be 
+executed like edit hourly wages and view average wages earned, wages earned for a time 
+period. Admin can send notification to staff/members or schedule notification to 
+staff/members. Status of each member can be viewed and admin can edit the recurring 
+payments of member’s. Bills are calculated and viewed for the details like bill id, amount, 
+discount etc. 
