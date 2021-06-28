@@ -1,0 +1,11 @@
+User bot 
+A pre-trained chatbot which can handle all day today activities with clients and will guide  
+users through different workouts and also provide a suitable diet chart to be followed as per  
+the selected fitness goal. Using google voice to text convertor voice to text conversion is 
+implemented and google text to voice convertor text to voice conversion is implemented. 
+New user registration is carried out through voice assisted or chat interface. User can ask 
+doubts and suggestion to chatbot. With the help of dialog flow reply from the bot is 
+generated. Using bot classes can be scheduled or scheduled classes can be rescheduled. 
+Text chat and voice chat shifting option is available in the bot. Using voicebit/chatbot 
+system can check availability of specific trainers and get their contact details. User can 
+view payment history through bot and can pay fee online. 
