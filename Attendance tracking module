@@ -1,0 +1,2 @@
+Attendance tracking module
+Attendance tracking module integrate biometrics and face identification attendance system with software and control access of members. This module can fetch attendance from biometric modules and mark logs. And also can fetch attendance using face recognition using openCV. Attendance tracking module can generate auto billing based on attendance and can send report or invoices to the members
